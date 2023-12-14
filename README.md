@@ -1,5 +1,5 @@
-To know the weather condition click the deployed link
-Type "/?city=your city name" then click enter
+* To know the weather condition click the deployed link
+* Type "/?city=your city name" then click enter
 
 
 
